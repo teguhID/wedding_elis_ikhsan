@@ -53,7 +53,7 @@ Border color: #ededed;
 /******************************************************************************
 [Typography]
 Font Source: Google Font Service;
-Body Font Family: 'Open Sans', sans-serif;
+Body Font Family: 'Lexend', sans-serif !important;
 Body Font Size: 15px;
 Common Headers Font Family: 'Rochester', cursive;
 Common Headers Font Size: 40px;
@@ -64,13 +64,13 @@ Common Headers Font Size: 40px;
 body {
     overflow-x: hidden;
     background: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
 }
 
 p {
     font-size: 14px;
     line-height: 1.75;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     color: #656565;
     font-size: 15px;
     font-weight: 300;
@@ -100,7 +100,7 @@ h6 {
 }
 
 p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
 }
 
 img {
@@ -140,8 +140,8 @@ p.text-muted {
     font-size: 55px;
 }
 
-.text-font-test {
-    font-family: 'Lexend', sans-serif !important;
+.font-wedding {
+    font-family: 'Dancing Script', cursive !important;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -1039,7 +1039,7 @@ p.relation {
 
 .evnt_prt h2,
 .evnt_prt_back h2 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     margin: 0;
     font-size: 22px;
     font-weight: 500;
@@ -1692,7 +1692,7 @@ a.read_more:hover .arrow-hov {
 .comments-area {}
 
 .cmnt_head {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     font-size: 20px;
     color: #2d2d2d;
     text-transform: capitalize;
@@ -1705,7 +1705,7 @@ a.read_more:hover .arrow-hov {
 }
 
 .comments-area h4 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     font-size: 16px;
     color: #2d2d2d;
     text-transform: capitalize;
@@ -1775,7 +1775,7 @@ p.not_publish::first-letter {
 }
 
 .comment-reply-title {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     font-size: 20px;
     color: #2d2d2d;
     font-weight: 400;
@@ -2169,7 +2169,7 @@ header.blog_header {
 }
 
 #sidebar h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     color: #2d2d2d;
     font-size: 20px;
     font-weight: 400;
@@ -2187,7 +2187,7 @@ header.blog_header {
 }
 
 .blog_head h2 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     font-size: 30px;
     font-weight: 400;
     margin: 0px;
@@ -3042,7 +3042,7 @@ div#tags {
     background: #EBEBEB;
     border-color: #EBEBEB;
     font-size: 22px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lexend', sans-serif !important;
     border-radius: 0;
     text-transform: capitalize;
     transition: .35s;
